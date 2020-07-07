@@ -4,6 +4,7 @@ class RewardResponse {
     try{
 
     }catch(e:Exception){
-
+sout
+        
     }
 }
